@@ -29,6 +29,8 @@ Users should be able to:
 ![Desktop-image](./Screenshot/Screenshot%202025-06-17%20002123.png)
 ![Mobile-image](./Screenshot/Screenshot%202025-06-17%20002202.png)
 
+###links
+live site url: https://cherryrambler.github.io/stat-preview-card/
 
 ## My process
 
